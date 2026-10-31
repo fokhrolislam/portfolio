@@ -2,7 +2,7 @@
 
 Full-stack developer in Dhaka, Bangladesh. Founder of [Sabaq](https://sabaaq.com). This page lists the products, client builds and fixes I have delivered, most of them in 2026. Client code stays with the clients; what is public is linked.
 
-**Stack:** PHP · Laravel · MySQL · Flutter · Dart · WordPress · Elementor · WooCommerce · Wix Studio · Capacitor · Supabase · Linux / cPanel · Bash · Node.js · Playwright
+**Stack:** PHP · Laravel · MySQL · Flutter · Dart · WordPress · Elementor · WooCommerce · Wix Studio · Capacitor · Supabase · TypeScript · React · Bun · Linux / cPanel · Bash · Node.js · Playwright
 
 ---
 
@@ -56,7 +56,8 @@ Field notes from these jobs: [wordpress-field-notes](https://github.com/fokhroli
 ## Mobile and SaaS for clients
 
 - **Balance** wellness app: Capacitor 7 + Supabase, App Store and Play launch.
-- Audits and scoping of a social-media scheduling SaaS (Next.js + Supabase) and an HR pulse SaaS takeover.
+- **Employee pulse SaaS** (unreleased, under confidentiality, so no name or link): homepage with a clickable product demo, full brand kit, sample AI reports, and a takeover of the TypeScript backend in progress (Bun, Hono, oRPC, Drizzle), starting with role checks, anonymity fixes and migration repair.
+- Audit and scoping of a social-media scheduling SaaS (Next.js + Supabase).
 
 ## Security and recovery
 
