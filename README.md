@@ -62,6 +62,7 @@ Field notes from these jobs: [wordpress-field-notes](https://github.com/fokhroli
 ## Security and recovery
 
 - sabaaq.com: account takeover with 11,500 casino spam posts cleaned, update path re-protected, iPhone content-filter block diagnosed.
+- sabaaq.com SEO: weekly Search Console review and technical crawl of 204 pages, stale product claims corrected against the current software, search traffic up from 159 to 404 clicks a week between October and November 2026.
 - fmfschool.edu.bd and dialab.pro: malware removed (backdoor plugin, hidden admins, zero-byte shells, traffic-direction redirect), hardening advice.
 - Sabaq fleet: licence-expiry lock added to the API within one day of the gap being reported, 372 sites patched with md5-guarded rollouts.
 
