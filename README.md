@@ -44,7 +44,7 @@ Remotion-rendered product video (16:9 and 9:16) of the app, Bangla narration, bu
 | Pikliz on Wheelz | Haitian food WooCommerce (Woodmart, GoDaddy): spice-builder product, catering page, sandbox-only PHP under a managed-host cache ban |
 | Profab | Figma to Elementor rebuild with a documented pattern library and gotcha list |
 | ChimneyForce, Druck-Manager, Vets on the Block, ELIS, Mindify, NOVO | React, Lovable, Wix and Figma designs converted to importable Elementor JSON on agency staging, including Hebrew RTL and multi-step MetForm wizards |
-| dicmadrasha.com | WordPress site fed live data from the madrasa's Sabaq tenant through a custom plugin |
+| dicmadrasha.com | WordPress site fed live data from the madrasa's Sabaq tenant through a custom plugin, with section-aware student lookups so a repeated roll number never shows the wrong child |
 | esischool.com | School website on the same Sabaq-connected build, re-branded for Ever Shine Imperial School |
 
 Field notes from these jobs: [wordpress-field-notes](https://github.com/fokhrolislam/wordpress-field-notes).
