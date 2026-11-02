@@ -45,6 +45,7 @@ Remotion-rendered product video (16:9 and 9:16) of the app, Bangla narration, bu
 | Profab | Figma to Elementor rebuild with a documented pattern library and gotcha list |
 | ChimneyForce, Druck-Manager, Vets on the Block, ELIS, Mindify, NOVO | React, Lovable, Wix and Figma designs converted to importable Elementor JSON on agency staging, including Hebrew RTL and multi-step MetForm wizards |
 | dicmadrasha.com | WordPress site fed live data from the madrasa's Sabaq tenant through a custom plugin |
+| esischool.com | School website on the same Sabaq-connected build, re-branded for Ever Shine Imperial School |
 
 Field notes from these jobs: [wordpress-field-notes](https://github.com/fokhrolislam/wordpress-field-notes).
 
